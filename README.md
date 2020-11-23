@@ -1,1 +1,2 @@
-# C-46
+# bounceOffAlgorithm
+Algorithm to bounce off two objects
